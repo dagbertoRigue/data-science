@@ -1,0 +1,22 @@
+R - Guia de instalação
+Introdução
+Este guia está dividido em duas seções, instalação padrão ou pelo link da UFPR-Universidade Federal do Paraná.
+
+Instalação :
+1.R
+O primeiro passo é entrar na página do projeto em www.r-project.org.
+Na seção Download and Install R, clique sobre o link Download R for Windows para baixar a versão atual para o sistema.
+A instalação segue o formato padrão de instalação de programas no Windows, e portanto não são necessários maiores detalhes.
+
+2.RStudio
+Para baixar o entre no endereço www.rstudio.com
+Clique no link Downloads
+Clique em RSTUDIO DESKTOP FREE DOWNLOAD
+Depois é só clicar e instalar da forma convencional do Windows.
+
+Instalação pelo servidor da UFPR:
+http://cran-r.c3sl.ufpr.br/bin/windows/base/R-3.3.1-win.exe
+https://download1.rstudio.org/RStudio-0.99.903.exe
+Importante! Instale nessa ordem: primeiro o R e só depois o RStudio. 
+O RStudio é apenas uma interface para o R, e por isso, precisa encontrar a instalação do R para poder ser instalado.
+
